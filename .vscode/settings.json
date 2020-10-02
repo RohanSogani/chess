@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.html": "html",
+        "__tree": "cpp",
+        "map": "cpp",
+        "tuple": "cpp",
+        "type_traits": "cpp",
+        "utility": "cpp"
+    }
+}
